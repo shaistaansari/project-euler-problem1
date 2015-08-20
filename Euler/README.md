@@ -1,1 +1,0 @@
-# project-euler-problem1
